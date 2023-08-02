@@ -1,9 +1,9 @@
-![Blue Orange And White Modern LinkdIn Banner](https://github.com/vidhi-kiet/vidhi-kiet/assets/78697483/70b48757-dcc6-4d6a-90e6-7e8c9183f564)### Hi there 👋, my name is Vidhi
+![Blue Orange And White Modern LinkdIn Banner](https://github.com/vidhi-kiet/vidhi-kiet/assets/78697483/70b48757-dcc6-4d6a-90e6-7e8c9183f564)
+### Hi there 👋, my name is Vidhi
 #### A Machine Learning Enthusiast from India
 I solve problems in creative ways. At KIET group of institutions where I am in B.Tech Final Year Major in Computer science I have learned the importance of applying Logical strategies to modern-day projects.Passion for innovation and Apply Theories into  Practicality.
 
 Skills: AI / ML / JS / HTML / CSS!
-[Uploading Blue Orange And White Modern LinkdIn Banner.png…]()
 
 
 - 🔭 I’m currently working on Sign Language Recognition System 
